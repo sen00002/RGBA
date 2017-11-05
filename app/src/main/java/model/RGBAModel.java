@@ -1,8 +1,8 @@
 package model;
 
-import java.util.Observable;
-
 import android.graphics.Color;
+
+import java.util.Observable;
 
 /**
  * The model holds the data.
